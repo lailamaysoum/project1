@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329844296062",
+    "project_id": "cloud-dfef2",
+    "storage_bucket": "cloud-dfef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329844296062:android:dfaf627cab2eb9016b0b2f",
+        "android_client_info": {
+          "package_name": "com.example.partproject1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329844296062-qc7s0cvurmmid0loa5roh15via0e4304.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJYgj6xihjdbSduaedO8V_nrWDQDfW-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329844296062-qc7s0cvurmmid0loa5roh15via0e4304.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
